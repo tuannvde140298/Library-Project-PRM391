@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EditText xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/search_bar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="15dp"
+    android:layout_marginTop="10dp"
+    android:background="@drawable/background_search_box"
+    android:drawableLeft="@drawable/img_search_icon"
+    android:drawableRight="@drawable/img_search_by_voice_icon"
+    android:hint="Search..."
+    android:padding="10dp"
+    android:focusableInTouchMode="false"
+    android:textColor="@color/black"
+    android:textColorHint="@color/gray_1"
+    android:textSize="20sp" />

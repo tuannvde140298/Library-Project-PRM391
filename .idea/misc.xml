@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/drawable/background_book_display.xml" value="0.2169230769230769" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/drawable/background_edit_text.xml" value="0.2203125" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/drawable/background_signup_button.xml" value="0.2203125" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/drawable/reading_btn1.xml" value="0.2203125" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/activity_add_book.xml" value="0.18" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/activity_book_details.xml" value="0.22" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/activity_categories.xml" value="0.19010416666666666" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/activity_favorite.xml" value="0.12771739130434784" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/activity_home.xml" value="0.208984375" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/activity_introduce.xml" value="0.15625" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/activity_introduce1.xml" value="0.19010416666666666" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/activity_introduce2.xml" value="0.1956521739130435" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/activity_introduce3.xml" value="0.1956521739130435" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/activity_introduce4.xml" value="0.19010416666666666" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/activity_loading.xml" value="0.19010416666666666" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/activity_login_signup.xml" value="0.1" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/activity_main.xml" value="0.35185185185185186" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/activity_signup.xml" value="0.22" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/activity_testing.xml" value="0.1852355072463768" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/fragment_add_book.xml" value="0.15625" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/fragment_book_details.xml" value="0.22" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/fragment_book_reading.xml" value="0.18" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/fragment_books.xml" value="0.13360507246376813" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/fragment_categories.xml" value="0.15625" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/fragment_category_detail.xml" value="0.1" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/fragment_favorite.xml" value="0.15625" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/fragment_favorite_book.xml" value="0.12771739130434784" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/fragment_home.xml" value="0.16168478260869565" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/fragment_home_book_horizontal.xml" value="0.12771739130434784" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/fragment_home_book_vertical.xml" value="0.12771739130434784" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/fragment_home_category.xml" value="0.12771739130434784" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/fragment_login.xml" value="0.5" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/fragment_login_signup.xml" value="0.16893115942028986" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/fragment_profile.xml" value="0.2" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/fragment_search_bar.xml" value="0.15625" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/fragment_signup.xml" value="0.16893115942028986" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/introduce1.xml" value="0.15625" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/introduce2.xml" value="0.15625" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/introduce3.xml" value="0.15625" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/search_recent_item.xml" value="0.15625" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/search_result_item.xml" value="0.15625" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/single_row_category.xml" value="0.25" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/view_book_category_detail.xml" value="0.15625" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/view_book_favorite.xml" value="0.48412698412698413" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/view_book_horizontal.xml" value="0.33" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/view_book_vertical.xml" value="0.33" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/view_bottom_nav.xml" value="0.25" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/view_favorite_book_vertical.xml" value="0.18795289855072464" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/view_toolbar.xml" value="0.5" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/layout/view_your_book_vertical.xml" value="0.33" />
+        <entry key="..\:/AndroidLearn21/Library-Project-PRM391/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/drawable/background_profile.xml" value="0.22552083333333334" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/drawable/background_search_box.xml" value="0.22552083333333334" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/drawable/reading_btn.xml" value="0.22552083333333334" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/drawable/reading_btn1.xml" value="0.22552083333333334" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/activity_add_book.xml" value="0.209375" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/activity_favorite.xml" value="0.209375" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/activity_home.xml" value="0.209375" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/activity_introduce.xml" value="0.209375" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/activity_loading.xml" value="0.209375" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/activity_login_signup.xml" value="0.209375" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/activity_search.xml" value="0.209375" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/fragment_book_details.xml" value="0.22" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/fragment_book_reading.xml" value="0.18" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/fragment_category_detail.xml" value="0.209375" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/fragment_home_category.xml" value="0.209375" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/fragment_login.xml" value="0.209375" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/fragment_login_signup.xml" value="0.209375" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/fragment_search_bar.xml" value="0.16168478260869565" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/fragment_signup.xml" value="0.16168478260869565" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/introduce1.xml" value="0.209375" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/introduce2.xml" value="0.16168478260869565" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/introduce3.xml" value="0.16168478260869565" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/search_recent_item.xml" value="0.16168478260869565" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/search_result_item.xml" value="0.209375" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/single_row_category.xml" value="0.209375" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/view_book_category_detail.xml" value="0.16168478260869565" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/view_book_favorite.xml" value="0.209375" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/view_book_horizontal.xml" value="0.209375" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/view_book_vertical.xml" value="0.209375" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/view_bottom_nav.xml" value="0.209375" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/view_toolbar.xml" value="0.209375" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/layout/view_your_book_vertical.xml" value="0.22" />
+        <entry key="..\:/FPTU/android/Library-Project-PRM391/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.209375" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/drawable/background_book_display.xml" value="0.25277777777777777" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/drawable/background_edit_text.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/drawable/background_img_favorite_book.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/drawable/background_profile.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/drawable/background_search_box.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/drawable/background_signup_button.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/drawable/ic_back.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/drawable/reading_btn.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/drawable/reading_btn1.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/activity_introduce.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/activity_loading.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/activity_login_signup.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/activity_search.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/fragment_add_book.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/fragment_book_details.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/fragment_book_reading.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/fragment_books.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/fragment_categories.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/fragment_category_detail.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/fragment_favorite.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/fragment_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/fragment_login.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/fragment_login_signup.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/fragment_profile.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/fragment_search_initial.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/fragment_search_results.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/fragment_signup.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/introduce1.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/introduce2.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/introduce3.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/single_row_category.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/view_book_category_detail.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/view_book_favorite.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/view_book_horizontal.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/view_book_vertical.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/view_favorite_book_vertical.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/view_search_bar.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/view_search_recent_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/view_search_result_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/layout/view_your_book_vertical.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/Admin/Desktop/Library-Project-PRM391-develop/Library-Project-PRM391-develop/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2574074074074074" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/drawable/background_book_display.xml" value="0.3302083333333333" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/drawable/background_bottom_nav.xml" value="0.31979166666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/drawable/background_img_favorite_book.xml" value="0.31979166666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/drawable/background_search_box.xml" value="0.3302083333333333" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/drawable/background_signup_button.xml" value="0.3302083333333333" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/drawable/button_signup_background.xml" value="0.30833333333333335" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/activity_book_details.xml" value="0.25226449275362317" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/activity_display_category.xml" value="0.30364583333333334" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/activity_display_home.xml" value="0.2921875" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/activity_favorite.xml" value="0.29270833333333335" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/activity_home.xml" value="0.26766304347826086" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/activity_login.xml" value="0.2921875" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/activity_login_signup.xml" value="0.2921875" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/activity_main.xml" value="0.2921875" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/activity_search.xml" value="0.36666666666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/book_horizontal.xml" value="0.2911458333333333" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/book_vertical.xml" value="0.2911458333333333" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_add_book.xml" value="0.271875" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_book_display_horizontal.xml" value="0.3140625" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_book_display_vertical.xml" value="0.3140625" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_book_reading.xml" value="0.271875" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_book_vertical.xml" value="0.25679347826086957" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_books.xml" value="0.33541666666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_categories.xml" value="0.33541666666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_category_detail.xml" value="0.264" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_category_display.xml" value="0.31302083333333336" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_display_favorite_book.xml" value="0.30364583333333334" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_favorite.xml" value="0.271875" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_favorite_book.xml" value="0.27355072463768115" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_home.xml" value="0.3151041666666667" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_home_book_horizontal.xml" value="0.29270833333333335" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_home_book_vertical.xml" value="0.29270833333333335" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_home_category.xml" value="0.2911458333333333" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_initital_search.xml" value="0.271875" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_search_bar.xml" value="0.36666666666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_search_initial.xml" value="0.33541666666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_search_results.xml" value="0.1" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/fragment_signup.xml" value="0.271875" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/search_recent_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/search_result_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/single_row_category.xml" value="0.271875" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/view_book_category_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/view_book_favorite.xml" value="0.2911458333333333" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/view_book_horizontal.xml" value="0.36666666666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/view_book_vertical.xml" value="0.36666666666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/view_bottom_nav.xml" value="0.36666666666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/view_favorite_book_vertical.xml" value="0.271875" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/view_search_bar.xml" value="0.33541666666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/view_search_recent_item.xml" value="0.33541666666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/view_search_result_item.xml" value="0.33541666666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/layout/view_toolbar.xml" value="0.2911458333333333" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM391/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.31302083333333336" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/drawable/reading_btn1.xml" value="0.325" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/activity_book_details.xml" value="0.28072916666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/activity_search.xml" value="0.264" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/fragment_book_details.xml" value="0.2609375" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/fragment_book_reading.xml" value="0.2609375" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/fragment_books.xml" value="0.2635416666666667" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/fragment_categories.xml" value="0.2609375" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/fragment_category_detail.xml" value="0.28072916666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/fragment_favorite.xml" value="0.2635416666666667" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/fragment_home.xml" value="0.2635416666666667" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/fragment_profile.xml" value="0.30885416666666665" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/fragment_search_initial.xml" value="0.290625" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/fragment_search_results.xml" value="0.2609375" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/introduce3.xml" value="0.3171875" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/single_row_category.xml" value="0.27807971014492755" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/view_book_favorite.xml" value="0.3390625" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/view_book_horizontal.xml" value="0.28072916666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/view_book_vertical.xml" value="0.28072916666666664" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/view_favorite_book_vertical.xml" value="0.2635416666666667" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/view_search_bar.xml" value="0.2635416666666667" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/view_search_recent_item.xml" value="0.2635416666666667" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/view_search_result_item.xml" value="0.2635416666666667" />
+        <entry key="..\:/dl khach/Android Project/Library-Project-PRM3911/app/src/main/res/layout/view_your_book_vertical.xml" value="0.2635416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

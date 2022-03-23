@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.library_project">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/img_login"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@drawable/img_bottom_nav_categories"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.library_project">
+        <activity
+            android:name=".view.ui.MainActivity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".view.ui.IntroduceActivity"
+            android:exported="true" />
+        <activity
+            android:name=".view.ui.LoginSignUpActivity"
+            android:exported="true" />
+        <activity
+            android:name=".view.ui.SearchActivity"
+            android:exported="true" />
+        <activity
+            android:name=".view.ui.LoadingActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

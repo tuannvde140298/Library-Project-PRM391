@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="15dp"
+    android:background="@color/dot_light_screen3"
+    android:elevation="4dp"
+    app:cardUseCompatPadding="true"
+    app:strokeWidth="3dp"
+    app:strokeColor="@color/green_1"
+    app:cardForegroundColor="#267CF2E0">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_category"
+        android:padding="10dp">
+        <TextView
+            android:id="@+id/tv_category"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Header Textsds"
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:padding="25dp"
+            android:textStyle="bold"
+            android:layout_marginRight="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:gravity="center_vertical"/>
+
+        <ImageView
+            android:id="@+id/img_category"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginEnd="15dp"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/img_login" />
+    </RelativeLayout>
+
+</com.google.android.material.card.MaterialCardView>

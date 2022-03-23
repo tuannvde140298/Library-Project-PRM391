@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Library App</string>
+    <string name="slide_1_title">Reading books</string>
+    <string name="slide_1_desc">Are you looking for a specific novel or book? Creativity Library provides you with the best books And the most skilled books</string>
+    <string name="slide_2_title">Reading books</string>
+    <string name="slide_2_desc">Are you looking for a specific novel or book? Creativity Library provides you with the best books And the most skilled books</string>
+    <string name="slide_3_title">Reading books</string>
+    <string name="slide_3_desc">Are you looking for a specific novel or book? Creativity Library provides you with the best books And the most skilled books</string>
+    <string name="book_short_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempus blandit ipsum vel aliquet. Cras consectetur sed arcu sit amet venenatis. Quisque congue libero et sagittis accumsan. Nam in tortor maximus, fermentum ipsum sed, maximus odio. Vivamus tortor felis, interdum sed risus ac, vehicula tristique felis. Sed ultricies pretium consectetur. Phasellus sed sodales enim. Aenean non viverra est, ut maximus diam. Etiam lobortis cursus elit nec vulputate.</string>
+</resources>

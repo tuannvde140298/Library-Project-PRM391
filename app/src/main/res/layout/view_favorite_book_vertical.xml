@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:background="@drawable/background_book_display"
+    android:clickable="true"
+    app:strokeColor="@color/green_1"
+    app:strokeWidth="1dp"
+    app:cardForegroundColor="#267CF2E0"
+    android:foreground="?android:attr/selectableItemBackground"
+    app:cardCornerRadius="8dp">
+
+    <LinearLayout
+        android:id="@+id/item_book"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <RelativeLayout
+            android:layout_width="120dp"
+            android:layout_height="100dp">
+
+            <ImageView
+                android:id="@+id/image_book"
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:src="@drawable/img_book" />
+            <ImageView
+                android:scaleType="centerInside"
+                android:adjustViewBounds="true"
+                android:id="@+id/heart"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginBottom="5dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:focusableInTouchMode="false"
+                android:src="@drawable/ic_heart_grey600_24dp" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/name_book"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:text="Alphabet series 123"
+            android:textColor="@color/green_1"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/des_book"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center"
+            android:text="Education"
+            android:textColor="@color/green_2"
+            android:textStyle="italic" />
+
+        <RatingBar
+            style="?android:attr/ratingBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:isIndicator="true"
+            android:numStars="5"
+            android:progressBackgroundTint="@color/gray_1"
+            android:rating="3.5"
+            android:stepSize="0.1" />
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>
